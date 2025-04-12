@@ -1,5 +1,5 @@
 # Bnuuy's Ship.
-Team 05 - Brian Moniaga, Chinmay Bhansali, Clare Pan, Dayshaun Lee, Lily Zhang
+Bnuuy Savers (Team) - Brian Moniaga, Chinmay Bhansali, Clare Pan, Dayshaun Lee, Lily Zhang
 
 # M1
 
