@@ -1,4 +1,4 @@
-# Bnuuy's Ship.
+# [Bnuuy's Ship](https://bnuuysavers.itch.io/bnuuys-ship)
 Bnuuy Savers (Team) - Brian Moniaga, Chinmay Bhansali, Clare Pan, Dayshaun Lee, Lily Zhang
 
 # M1
