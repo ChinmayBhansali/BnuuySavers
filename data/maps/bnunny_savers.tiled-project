@@ -1,0 +1,175 @@
+{
+    "automappingRulesFile": "",
+    "commands": [
+    ],
+    "extensionsPath": "extensions",
+    "folders": [
+        "."
+    ],
+    "properties": [
+    ],
+    "propertyTypes": [
+        {
+            "color": "#ffff00ff",
+            "drawFill": false,
+            "id": 5,
+            "members": [
+            ],
+            "name": "base",
+            "type": "class",
+            "useAs": [
+                "property",
+                "map",
+                "layer",
+                "object",
+                "tile",
+                "tileset",
+                "wangcolor",
+                "wangset",
+                "project"
+            ]
+        },
+        {
+            "color": "#ff00ffff",
+            "drawFill": true,
+            "id": 8,
+            "members": [
+            ],
+            "name": "bunny",
+            "type": "class",
+            "useAs": [
+                "property",
+                "map",
+                "layer",
+                "object",
+                "tile",
+                "tileset",
+                "wangcolor",
+                "wangset",
+                "project"
+            ]
+        },
+        {
+            "color": "#ffffaaff",
+            "drawFill": false,
+            "id": 9,
+            "members": [
+                {
+                    "name": "disaster_type",
+                    "propertyType": "disaster_type_enum",
+                    "type": "int",
+                    "value": 0
+                }
+            ],
+            "name": "disaster",
+            "type": "class",
+            "useAs": [
+                "property",
+                "map",
+                "layer",
+                "object",
+                "tile",
+                "tileset",
+                "wangcolor",
+                "wangset",
+                "project"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "disaster_type_enum",
+            "storageType": "int",
+            "type": "enum",
+            "values": [
+                "tornado",
+                "whirlpool"
+            ],
+            "valuesAsFlags": false
+        },
+        {
+            "color": "#ffff0000",
+            "drawFill": false,
+            "id": 1,
+            "members": [
+                {
+                    "name": "enemy_type_enum",
+                    "propertyType": "enemy_type_enum",
+                    "type": "int",
+                    "value": 0
+                },
+                {
+                    "name": "home_island",
+                    "type": "object",
+                    "value": 0
+                }
+            ],
+            "name": "enemy",
+            "type": "class",
+            "useAs": [
+                "property",
+                "map",
+                "layer",
+                "object",
+                "tile",
+                "tileset",
+                "wangcolor",
+                "wangset",
+                "project"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "enemy_type_enum",
+            "storageType": "int",
+            "type": "enum",
+            "values": [
+                "basic_gunner",
+                "flyer",
+                "tank",
+                "shooter",
+                "dummy"
+            ],
+            "valuesAsFlags": false
+        },
+        {
+            "color": "#ff00ff00",
+            "drawFill": false,
+            "id": 3,
+            "members": [
+            ],
+            "name": "island",
+            "type": "class",
+            "useAs": [
+                "property",
+                "map",
+                "layer",
+                "object",
+                "tile",
+                "tileset",
+                "wangcolor",
+                "wangset",
+                "project"
+            ]
+        },
+        {
+            "color": "#ffffff00",
+            "drawFill": true,
+            "id": 4,
+            "members": [
+            ],
+            "name": "player",
+            "type": "class",
+            "useAs": [
+                "property",
+                "map",
+                "layer",
+                "object",
+                "tile",
+                "tileset",
+                "wangcolor",
+                "wangset",
+                "project"
+            ]
+        }
+    ]
+}

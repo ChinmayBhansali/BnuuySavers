@@ -1,0 +1,13 @@
+# Ignore build directories
+/build/
+/out/
+
+/.cache/
+**/.DS_Store
+
+.vs/
+.vscode/
+/ext/project_path.hpp
+/ext/project_path.hpp.in
+/data/maps/bnunny_savers.tiled-session
+/data/level_save.json
